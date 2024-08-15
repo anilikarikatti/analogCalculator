@@ -1,4 +1,4 @@
-# Independency Day Special 
+# Independence Day Special 
 
 ##   Analog Clock 
 
