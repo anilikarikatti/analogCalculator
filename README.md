@@ -1,4 +1,4 @@
-This is Analog Timer 
+This is Analog Clock 
 
 TechStack : 
   react , javascript , html ,css 
