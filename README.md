@@ -1,9 +1,9 @@
 # Independency Day Special 
 
-## This is  Analog Clock 
+##   Analog Clock 
 
-TechStack : 
-  react , javascript , html ,css 
+## TechStack : 
+###  react , javascript , html ,css 
 
 
 output : 
